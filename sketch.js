@@ -1,10 +1,10 @@
-
+var Play=1;
+var End=0;
 var trex ,trex_running;
 var soloImage;
 var pontos;
 var estadoJogo= Play;
-var Play=1;
-var End=0;
+
 
 
 function preload(){
